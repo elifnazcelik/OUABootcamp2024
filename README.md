@@ -1,7 +1,7 @@
-Takım İsmi
+#Takım İsmi
 Unity Takım 6
 
-Ürün İle İlgili Bilgiler
+#Ürün İle İlgili Bilgiler
 Takım Elemanları
 Elif Şahin: Product Owner
 Zeynep Kaplan: Scrum Master
@@ -9,10 +9,10 @@ Elifnaz Çelik: Team Member/Developer
 Ege Dogantemur: Team Member/Developer
 Yusuf Erkan: Team Member/Developer
 
-Ürün İsmi
+#Ürün İsmi
 Rabbish
 
-Ürün Açıklaması
+#Ürün Açıklaması
 Ürünümüz, kullanıcılarımıza çevre temizliği ve toplumsal yaşam konusunda bilinç kazanmayı amaçlamaktadır. Ürünümüz çevre kirliliğine dikkat çekmekte ve bunların çözümlerine örnekler sunmakta ve kullanıcılarımıza bilinç kazandırmayı hedefler.
 Ürün Özellikleri
 Çevresel kirliliği ayrıştırma 
@@ -22,10 +22,10 @@ Geri dönüştürülebilecek olan ürünleri geri dönüştürüp kullanılabile
 Hedef Kitle
 Bulmaca çözmeyi sevenler
 7 yaş üstü kullanıcılar
-Product Backlog URL
+#Product Backlog URL
 [Miro Backlog Board](https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)
 
-Sprint 1
+#Sprint 1
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
@@ -37,12 +37,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: Sprint 1 Daily Scrum Chats
 
-Sprint board update: Sprint board screenshotları: Backlog 1 Backlog 2 Backlog 3
+Sprint board update: 
 
 Ürün Durumu: ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/657ed4ca-695b-4c18-8b08-503b41421c35)
 
 
-Sprint Review: Alınan kararlar: Oyunun temasını ve hikayesini belirledik.
+Sprint Review: Alınan kararlar: Oyunun temasını ve hikayesini belirlendi.
 Sprint Retrospective:
 
 Takım içindeki görev dağılımı yapılmıştır
