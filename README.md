@@ -23,7 +23,7 @@ Hedef Kitle
 Bulmaca çözmeyi sevenler
 7 yaş üstü kullanıcılar
 #Product Backlog URL
-[Miro Backlog Board](https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)
+[jira Backlog Board](https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)
 
 # Sprint 1
 
