@@ -1,15 +1,15 @@
-#Takım İsmi
+# Takım İsmi
 Unity Takım 6
 
-#Ürün İle İlgili Bilgiler
-Takım Elemanları
-Elif Şahin: Product Owner
-Zeynep Kaplan: Scrum Master
-Elifnaz Çelik: Team Member/Developer
-Ege Dogantemur: Team Member/Developer
-Yusuf Erkan: Team Member/Developer
+# Ürün İle İlgili Bilgiler
+### Takım Elemanları
+- Elif Şahin: Product Owner
+- Zeynep Kaplan: Scrum Master
+- Elifnaz Çelik: Team Member/Developer
+- Ege Dogantemur: Team Member/Developer
+- Yusuf Erkan: Team Member/Developer
 
-#Ürün İsmi
+# Ürün İsmi
 Rabbish
 
 #Ürün Açıklaması
@@ -25,7 +25,7 @@ Bulmaca çözmeyi sevenler
 #Product Backlog URL
 [Miro Backlog Board](https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)
 
-#Sprint 1
+# Sprint 1
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
@@ -42,11 +42,11 @@ Sprint board update:
 Ürün Durumu: ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/657ed4ca-695b-4c18-8b08-503b41421c35)
 
 
-Sprint Review: Alınan kararlar: Oyunun temasını ve hikayesini belirlendi.
+### Sprint Review: Alınan kararlar: Oyunun temasını ve hikayesini belirlendi.
 Sprint Retrospective:
 
 Takım içindeki görev dağılımı yapılmıştır
 
--Diğer Notlar:
+## -Diğer Notlar:
 
 Takımımız daha 2 gün önce oluşturulduğundan sadece oyunumuzu şekillendirme ve görev dağılımı yapma fırsatı bulabildik.
