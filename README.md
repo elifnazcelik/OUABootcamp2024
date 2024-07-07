@@ -15,10 +15,10 @@ Rabbish
 ## Ürün Açıklaması
 Ürünümüz, kullanıcılarımıza çevre temizliği ve toplumsal yaşam konusunda bilinç kazanmayı amaçlamaktadır. Ürünümüz çevre kirliliğine dikkat çekmekte ve bunların çözümlerine örnekler sunmakta ve kullanıcılarımıza bilinç kazandırmayı hedefler.
 ## Ürün Özellikleri
-Çevresel kirliliği ayrıştırma 
-Çevresel faktörleri temizleyerek hayatta kalma
-Atıkları ayrıştırarak puan kazanma
-Geri dönüştürülebilecek olan ürünleri geri dönüştürüp kullanılabilecek ürünlere çevirip hayatta kalmak için kullanma 
+- Çevresel kirliliği ayrıştırma 
+- Çevresel faktörleri temizleyerek hayatta kalma
+- Atıkları ayrıştırarak puan kazanma
+- Geri dönüştürülebilecek olan ürünleri geri dönüştürüp kullanılabilecek ürünlere çevirip hayatta kalmak için kullanma 
 Hedef Kitle
 Bulmaca çözmeyi sevenler
 7 yaş üstü kullanıcılar
