@@ -14,7 +14,7 @@ Rabbish
 
 ## Ürün Açıklaması
 Ürünümüz, kullanıcılarımıza çevre temizliği ve toplumsal yaşam konusunda bilinç kazanmayı amaçlamaktadır. Ürünümüz çevre kirliliğine dikkat çekmekte ve bunların çözümlerine örnekler sunmakta ve kullanıcılarımıza bilinç kazandırmayı hedefler.
-Ürün Özellikleri
+## Ürün Özellikleri
 Çevresel kirliliği ayrıştırma 
 Çevresel faktörleri temizleyerek hayatta kalma
 Atıkları ayrıştırarak puan kazanma
@@ -22,7 +22,7 @@ Geri dönüştürülebilecek olan ürünleri geri dönüştürüp kullanılabile
 Hedef Kitle
 Bulmaca çözmeyi sevenler
 7 yaş üstü kullanıcılar
-#Product Backlog URL
+# Product Backlog URL
 [jira Backlog Board](https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)
 
 # Sprint 1
