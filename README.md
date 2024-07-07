@@ -29,6 +29,8 @@ Rabbish
 - Bulmaca çözmeyi sevenler
 - Kaynak yönetimini sevenler
 - 7 yaş üstü kullanıcılar
+- Doğa ve hayvan severler
+- Eğlenceli ve öğretici oyun arayan aileler
 # Product Backlog URL
 [jira Backlog Board](https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)
 
