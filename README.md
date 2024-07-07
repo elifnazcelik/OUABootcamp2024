@@ -22,9 +22,10 @@ Rabbish
 - Çevresel faktörleri temizleyerek hayatta kalma
 - Atıkları ayrıştırarak puan kazanma
 - Geri dönüştürülebilecek olan ürünleri geri dönüştürüp kullanılabilecek ürünlere çevirip hayatta kalmak için kullanma 
-Hedef Kitle
-Bulmaca çözmeyi sevenler
-7 yaş üstü kullanıcılar
+## Hedef Kitle
+- Bulmaca çözmeyi sevenler
+- Kaynak yönetimini sevenler
+- 7 yaş üstü kullanıcılar
 # Product Backlog URL
 [jira Backlog Board](https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)
 
@@ -40,6 +41,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. jira yapılacak işle
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir.
 Sprint board update: 
+![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/e73b98ee-d82a-4c98-950b-cb34b2e63d69)
+
 
 Ürün Durumu: ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/657ed4ca-695b-4c18-8b08-503b41421c35)
 
