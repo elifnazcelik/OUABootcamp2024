@@ -40,14 +40,13 @@ Oyunumuz, kullanıcılarımıza çevre temizliği ve toplumsal yaşam konusunda 
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
-
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 Story'ler yapılacak işlere (task'lere) bölünmüştür. jira yapılacak işleri (task) gösterir
 
-Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
-Sprint board update: 
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
+- **Sprint board update**: 
 ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/e59bd3cf-8891-46b0-b6a6-7ffe5ac61948)
 ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/e5ea93bd-a5a0-4398-a57d-bb31eabbf1be)
 ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/fb6d078d-2ebf-44e8-b6f0-486946d4fbe5)
