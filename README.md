@@ -54,9 +54,9 @@ Sprint board update:
 ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/51a9e359-c73a-401e-a299-2ce44c41d9ae)
 ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/b5c094ae-4c34-47b8-a7fa-6af62757184f)
 
-Tasarım ve Developing: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır.
-Tasarım Grubu Üyeleri: Ege, Zeynep, Elif
-Developing Grubu Üyeleri: Elifnaz, Elif, Zeynep, Yusuf
+- **Tasarım ve Developing**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır.
+- **Tasarım Grubu Üyeleri**: Ege, Zeynep, Elif
+- **Developing Grubu Üyeleri**: Elifnaz, Elif, Zeynep, Yusuf
 
 
 
