@@ -7,26 +7,27 @@
 
 Unity Takım 6
 
-# Ürün İle İlgili Bilgiler
-### Takım Elemanları
+
+### Takım Üyeleri
 - Elif Şahin: Product Owner
 - Zeynep Kaplan: Scrum Master
 - Elifnaz Çelik: Team Member/Developer
 - Ege Dogantemur: Team Member/Developer
 - Yusuf Erkan: Team Member/Developer
 
-# Ürün İsmi
-Rabbish
+# Oyun İsmi
+Rubbish
 
-## Ürün Açıklaması
-Ürünümüz, kullanıcılarımıza çevre temizliği ve toplumsal yaşam konusunda bilinç kazanmayı amaçlamaktadır. Ürünümüz çevre kirliliğine dikkat çekmekte ve bunların çözümlerine örnekler sunmakta ve kullanıcılarımıza bilinç kazandırmayı hedefler.
-## Ürün Özellikleri
+## Oyun Açıklaması
+Oyunumuz, kullanıcılarımıza çevre temizliği ve toplumsal yaşam konusunda bilinç kazanmayı amaçlamaktadır. Oyunumuz çevre kirliliğine dikkat çekmerek bunların çözümlerine örnekler sunmakyı ve kullanıcılarımıza bilinç kazandırmayı hedefler. Oyunumuz ağaç dikerek oksijen seviyesini dengede tutmaya çalıştığımız, gerektiğinde çöp adamlarla savaştığımız, çeşitli bulmacalar çözdüğümüz, çeşitli bitkiler yetiştirerek hayatta kaldığımız 2D pixel art hayatta kalma oyunudur.
+## Oyun Özellikleri
+- 2D
 - Çevresel kirliliği ayrıştırma 
 - Çevresel faktörleri temizleyerek hayatta kalma
 - Atıkları ayrıştırarak puan kazanma
 - Geri dönüştürülebilecek olan ürünleri geri dönüştürüp kullanılabilecek ürünlere çevirip hayatta kalmak için kullanma 
 ## Hedef Kitle
-- Bulmaca çözmeyi sevenler
+- Puzzle sevenler
 - Kaynak yönetimini sevenler
 - 7 yaş üstü kullanıcılar
 - Doğa ve hayvan severler
@@ -38,25 +39,36 @@ Rabbish
 
 Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. jira yapılacak işleri (task) gösterir
 
-Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Discord üzerinden yapılmasına karar verilmiştir.
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir.
 Sprint board update: 
-![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/e73b98ee-d82a-4c98-950b-cb34b2e63d69)
+![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/e59bd3cf-8891-46b0-b6a6-7ffe5ac61948)
+![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/e5ea93bd-a5a0-4398-a57d-bb31eabbf1be)
+![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/fb6d078d-2ebf-44e8-b6f0-486946d4fbe5)
+![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/51a9e359-c73a-401e-a299-2ce44c41d9ae)
+![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/b5c094ae-4c34-47b8-a7fa-6af62757184f)
+
+Tasarım ve Developing: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır.
+Tasarım Grubu Üyeleri: Ege, Zeynep, Elif
+Developing Grubu Üyeleri: Elifnaz, Elif, Zeynep, Yusuf
 
 
-Ürün Durumu: ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/657ed4ca-695b-4c18-8b08-503b41421c35)
 
 
-### Sprint Review: Alınan kararlar: Oyunun temasını ve hikayesini belirlendi.
+Oyun Durumu: ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/657ed4ca-695b-4c18-8b08-503b41421c35)
+
+
+### Sprint Review: Alınan kararlar: 
+- Oyunun teması ve hikayesini belirlendi.
 Sprint Retrospective:
 
 Takım içindeki görev dağılımı yapılmıştır
 
 ## -Diğer Notlar:
 
-Takımımız daha 2 gün önce oluşturulduğundan sadece oyunumuzu şekillendirme ve görev dağılımı yapma fırsatı bulabildik.
+  Takımımız 5 Temmuzda oluşturulduğundan sadece oyunumuzu şekillendirme ve görev dağılımı yapma fırsatı bulabildik.
