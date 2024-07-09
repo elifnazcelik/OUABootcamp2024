@@ -34,7 +34,7 @@ Oyunumuz, kullanıcılarımıza çevre temizliği ve toplumsal yaşam konusunda 
 - Doğa ve hayvan severler
 - Eğlenceli ve öğretici oyun arayan aileler
 # Product Backlog URL
-[jira Backlog Board](https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)
+[[jira Backlog Board](https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)](https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list)
 
 # Sprint 1
 
