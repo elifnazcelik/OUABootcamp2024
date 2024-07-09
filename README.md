@@ -66,7 +66,7 @@ Oyun Durumu: ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117
 
 ### Sprint Review: Alınan kararlar: 
 - Oyunun teması ve hikayesini belirlendi.
-Sprint Retrospective:
+## Sprint Retrospective:
 
 Takım içindeki görev dağılımı yapılmıştır
 
