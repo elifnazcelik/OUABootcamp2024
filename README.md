@@ -19,9 +19,10 @@ Unity Takım 6
 Rubbish
 
 ## Oyun Açıklaması
-Oyunumuz, kullanıcılarımıza çevre temizliği ve toplumsal yaşam konusunda bilinç kazanmayı amaçlamaktadır. Oyunumuz çevre kirliliğine dikkat çekmerek bunların çözümlerine örnekler sunmakyı ve kullanıcılarımıza bilinç kazandırmayı hedefler. Oyunumuz ağaç dikerek oksijen seviyesini dengede tutmaya çalıştığımız, gerektiğinde çöp adamlarla savaştığımız, çeşitli bulmacalar çözdüğümüz, çeşitli bitkiler yetiştirerek hayatta kaldığımız 2D pixel art hayatta kalma oyunudur.
+Oyunumuz, kullanıcılarımıza çevre temizliği ve toplumsal yaşam konusunda bilinç kazanmayı amaçlamaktadır aynı zamanda çevre kirliliğine dikkat çekmerek bunların çözümlerine örnekler sunmayı ve kullanıcılarımıza bilinç kazandırmayı hedefler. Oyunumuz ağaç dikerek oksijen seviyesini dengede tutmaya çalıştığımız, gerektiğinde çöp adamlarla savaştığımız, çeşitli bulmacalar çözdüğümüz, çeşitli bitkiler yetiştirerek hayatta kaldığımız 2D pixel art hayatta kalma oyunudur.
 ## Oyun Özellikleri
 - 2D
+- Pixel Art
 - Çevresel kirliliği ayrıştırma 
 - Çevresel faktörleri temizleyerek hayatta kalma
 - Atıkları ayrıştırarak puan kazanma
