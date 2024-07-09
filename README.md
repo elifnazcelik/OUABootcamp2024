@@ -38,7 +38,7 @@ Oyunumuz, kullanıcılarımıza çevre temizliği ve toplumsal yaşam konusunda 
 
 # Sprint 1
 
-Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+- Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
