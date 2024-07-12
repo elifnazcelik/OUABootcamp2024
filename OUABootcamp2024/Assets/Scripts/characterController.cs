@@ -21,14 +21,19 @@ public class characterController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        //r2d.velocity = new Vector2(speed, 0f);
+        
     }
 
     void Update()
     {
-        charPos = new Vector3(charPos.x + ((Input.GetAxis("Horizontal")) * speed * Time.deltaTime), charPos.y);
+        charPos = new Vector3(
+            charPos.x + (Input.GetAxis("Horizontal") * speed * Time.deltaTime),
+            charPos.y + (Input.GetAxis("Vertical") * speed * Time.deltaTime),
+            charPos.z
+        );
         transform.position = charPos;
-        if (Input.GetAxis("Horizontal") == 0.0f)
+
+        if (Input.GetAxis("Horizontal") == 0.0f && Input.GetAxis("Vertical") == 0.0f)
         {
             _animator.SetFloat("speed", 0.0f);
         }
@@ -39,16 +44,12 @@ public class characterController : MonoBehaviour
 
         if (Input.GetAxis("Horizontal") > 0.01f)
         {
-            _spriteRenderer.flipX = false;
+            _spriteRenderer.flipX = true;
         }
         else if (Input.GetAxis("Horizontal") < -0.01f)
         {
-            _spriteRenderer.flipX = true;
+            _spriteRenderer.flipX = false;
         }
     }
-
-    private void LateUpdate()
-    {
-        _camera.transform.position = new Vector3(charPos.x, charPos.y, charPos.z - 2.0f);
-    }
 }
+

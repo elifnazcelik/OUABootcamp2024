@@ -4,32 +4,36 @@ using UnityEngine;
 
 public class rabbitFollow : MonoBehaviour
 {
-    public Transform player;  // Oyuncu karakterinin Transform'u
-    public float offset = 2.0f;  // Tavþanýn oyuncunun yanýnda duracaðý mesafe
+    public Transform player; 
+    public float horizontalOffset = 2.0f; 
+    public float verticalOffset = 0.5f; 
+    public float lerpSpeed = 5.0f; 
 
-    private Vector3 targetPosition;  // Tavþanýn gitmek istediði hedef pozisyon
-    private SpriteRenderer spriteRenderer;  // Tavþanýn SpriteRenderer'ý
+    private Vector3 targetPosition; 
+    private SpriteRenderer spriteRenderer; 
+    private SpriteRenderer playerSpriteRenderer;
 
     void Start()
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();  // SpriteRenderer bileþenini al
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        playerSpriteRenderer = player.GetComponent<SpriteRenderer>(); 
     }
 
     void Update()
     {
-        // Oyuncunun pozisyonuna göre tavþanýn hedef pozisyonunu ayarla
-        if (player.position.x > transform.position.x)  // Oyuncu tavþanýn saðýndaysa
+        if (playerSpriteRenderer.flipX) 
         {
-            targetPosition = new Vector3(player.position.x - offset, transform.position.y, transform.position.z);  // Tavþaný oyuncunun soluna koy
-            spriteRenderer.flipX = false;  // Tavþaný saða bakacak þekilde ayarla
+            targetPosition = new Vector3(player.position.x + horizontalOffset, player.position.y + verticalOffset, transform.position.z); 
+            spriteRenderer.flipX = true; 
         }
-        else if (player.position.x < transform.position.x)  // Oyuncu tavþanýn solundaysa
+        else 
         {
-            targetPosition = new Vector3(player.position.x + offset, transform.position.y, transform.position.z);  // Tavþaný oyuncunun saðýna koy
-            spriteRenderer.flipX = true;  // Tavþaný sola bakacak þekilde ayarla
+            targetPosition = new Vector3(player.position.x - horizontalOffset, player.position.y + verticalOffset, transform.position.z); 
+            spriteRenderer.flipX = false; 
         }
 
-        // Tavþaný hedef pozisyona ayarla (senkron hareket)
-        transform.position = targetPosition;
+        transform.position = Vector3.Lerp(transform.position, targetPosition, lerpSpeed * Time.deltaTime);
     }
 }
+
+
