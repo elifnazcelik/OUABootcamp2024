@@ -40,7 +40,7 @@ Oyunumuz, kullanıcılarımıza çevre temizliği ve toplumsal yaşam konusunda 
 
 - Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 Story'ler yapılacak işlere (task'lere) bölünmüştür. jira yapılacak işleri (task) gösterir
@@ -72,3 +72,22 @@ Takım içindeki görev dağılımı yapılmıştır
 ## -Diğer Notlar:
 
   Takımımız 5 Temmuzda oluşturulduğundan sadece oyunumuzu şekillendirme ve görev dağılımı yapma fırsatı bulabildik.
+
+# Sprint 2
+## Sprint Notes
+- Map, karakter, düşman, pazar tezgahı çizimleri yapıldı.
+- Kraktere temel mekanikler, toplama mekaniği, animasyonlar, kamera, ağaç kesme mekaniği eklendi.
+- Envanter, toolbar, gece gündüz döngüsü eklendi.
+- Düşman ve düşman takip mekanikleri eklendi.
+- Tavşan animasyonları ve tavşanın insanı takip etmesi eklendi.
+
+## Sprintte Tamamlanması Beklenen Puan: 200 puan
+
+## Sprintte Tamamlanan Puan: (... puan) Takımımız geç oluşturulduğu için bu sprinte düşen görev miktarı fazlaydı. Ekip arkadaşlarımın yoğunlukları sebebiyle bazı görevler tamamlanamadı.
+
+## Daily Scrum: [Sprint2DailyScrum.docx](https://github.com/user-attachments/files/16324994/Sprint2DailyScrum.docx)
+
+
+## Sprint Review Participants: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik
+
+## Sprint Retrospective: 
