@@ -72,7 +72,8 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 ## -Diğer Notlar:
 
   Takımımız 5 Temmuzda oluşturulduğundan sadece oyunumuzu şekillendirme ve görev dağılımı yapma fırsatı bulabildik.
-  
+
+## Sprint 2
 <details>
 <summary> **Sprint 2**</summary>
 <p>- **Sprint Notes**
