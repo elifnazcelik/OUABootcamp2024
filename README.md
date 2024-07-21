@@ -96,7 +96,12 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 ![Görsel 1](https://github.com/user-attachments/assets/909fd2ed-3fed-4726-9a34-50614e32289a)
 ![Görsel 2](https://github.com/user-attachments/assets/bf543f86-879d-416e-98f6-e82a6122e2b0)
 
-![Görsel 3](https://github.com/user-attachments/assets/a55e4753-efa7-48f1-b85d-4a8a22827bc6)
+![Görsel 3](https://github.com/user-attachments/assets/b80cc6d4-6e7c-4b37-ad17-0efeefe0cba7)
+
+![Görsel 4](https://github.com/user-attachments/assets/a68aa634-7620-47a7-b5ba-94ccf4e6e67e)
+
+
+![Görsel 5](https://github.com/user-attachments/assets/a55e4753-efa7-48f1-b85d-4a8a22827bc6)
 
 [![Video Başlığı](https://github.com/user-attachments/assets/1ceec7c2-597c-43d2-bdd7-9b489cb4e379)
 
