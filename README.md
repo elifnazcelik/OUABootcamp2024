@@ -49,8 +49,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. jira yapılacak işle
 - **Sprint board update**: 
 ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/e59bd3cf-8891-46b0-b6a6-7ffe5ac61948)
 ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/e5ea93bd-a5a0-4398-a57d-bb31eabbf1be)
-![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/fb6d078d-2ebf-44e8-b6f0-486946d4fbe5)
-![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/51a9e359-c73a-401e-a299-2ce44c41d9ae)
+![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/fb6d078d-2ebf-44e8-b6f0-486946d4fbe5)<br>
+![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/51a9e359-c73a-401e-a299-2ce44c41d9ae)<br>
 ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/b5c094ae-4c34-47b8-a7fa-6af62757184f)
 
 - **Tasarım ve Developing**: Tasarım tarafı aynı zamanda developing kısmında da çalışacaktır.
