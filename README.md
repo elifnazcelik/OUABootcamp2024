@@ -81,13 +81,13 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 - Düşman ve düşman takip mekanikleri eklendi.
 - Tavşan animasyonları ve tavşanın insanı takip etmesi eklendi.
 
-## **Sprintte Tamamlanması Beklenen Puan**: 200 puan
+- **Sprintte Tamamlanması Beklenen Puan**: 200 puan
 
-## **Sprintte Tamamlanan Puan**: (160 puan) Takımımız geç oluşturulduğu için bu sprinte düşen görev miktarı fazlaydı. Yoğunluklar sebebiyle bazı görevler tamamlanamadı.
+- **Sprintte Tamamlanan Puan**: (160 puan) Takımımız geç oluşturulduğu için bu sprinte düşen görev miktarı fazlaydı. Yoğunluklar sebebiyle bazı görevler tamamlanamadı.
 
-## **Daily Scrum**: [Sprint2DailyScrum.docx](https://github.com/user-attachments/files/16324994/Sprint2DailyScrum.docx)
+- **Daily Scrum**: [Sprint2DailyScrum.docx](https://github.com/user-attachments/files/16324994/Sprint2DailyScrum.docx)
 
-## Oyun Durumu
+## **Oyun Durumu**
 ![Görsel 1](https://github.com/user-attachments/assets/909fd2ed-3fed-4726-9a34-50614e32289a)
 ![Görsel 2](https://github.com/user-attachments/assets/bf543f86-879d-416e-98f6-e82a6122e2b0)
 
@@ -101,7 +101,7 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
 
 
-**Sprint Review Participants**: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Dogantemur
+- **Sprint Review Participants**: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Dogantemur
 
 ## Sprint Retrospective: 
 - Oyunun dizaynı açısından kararlar alındı.
