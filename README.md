@@ -1,5 +1,5 @@
 ![asdgfhdfgah](https://github.com/elifnazcelik/OUABootcamp2024/assets/120333911/15175df1-39e2-45dd-8a86-b870c11ee215) ![gdsfgsdfg](https://github.com/elifnazcelik/OUABootcamp2024/assets/120333911/f603f29e-9574-4dd6-a4a0-dac5e858a1b8) ![Sprite-000asdas3](https://github.com/elifnazcelik/OUABootcamp2024/assets/120333911/87084788-3b66-43e9-a7f8-53ecb70fd1ed)
-## Takım İsmi
+### Takım İsmi
 Unity Takım 6
 
 
@@ -10,7 +10,7 @@ Unity Takım 6
 - Ege Dogantemur: Team Member/Developer
 - Yusuf Erkan: Team Member/Developer
 
-## Oyun İsmi
+### Oyun İsmi
 **Rubbish**
 
 ### Oyun Açıklaması
