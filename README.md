@@ -82,11 +82,11 @@ Takım içindeki görev dağılımı yapılmıştır
 - Düşman ve düşman takip mekanikleri eklendi.
 - Tavşan animasyonları ve tavşanın insanı takip etmesi eklendi.
 
-## Sprintte Tamamlanması Beklenen Puan: 200 puan
+## **Sprintte Tamamlanması Beklenen Puan**: 200 puan
 
-## Sprintte Tamamlanan Puan: (160 puan) Takımımız geç oluşturulduğu için bu sprinte düşen görev miktarı fazlaydı. Ekip arkadaşlarımın yoğunlukları sebebiyle bazı görevler tamamlanamadı.
+## **Sprintte Tamamlanan Puan**: (160 puan) Takımımız geç oluşturulduğu için bu sprinte düşen görev miktarı fazlaydı. Yoğunluklar sebebiyle bazı görevler tamamlanamadı.
 
-## Daily Scrum: [Sprint2DailyScrum.docx](https://github.com/user-attachments/files/16324994/Sprint2DailyScrum.docx)
+## **Daily Scrum**: [Sprint2DailyScrum.docx](https://github.com/user-attachments/files/16324994/Sprint2DailyScrum.docx)
 
 ## Ürün Durumu
 - ![WhatsApp Image 2024-07-12 at 21 29 26_bd70719d](https://github.com/user-attachments/assets/909fd2ed-3fed-4726-9a34-50614e32289a)
@@ -96,10 +96,10 @@ Takım içindeki görev dağılımı yapılmıştır
 
 
 
-## Sprint Review Participants: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Dogantemur
+## **Sprint Review Participants**: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Dogantemur
 
 ## Sprint Retrospective: 
-- Oyunun dizaynı açısından kararlar alındı
-- Yapılmış özellikler hakkında konuşuldu
-- Daha sık iletişime geçilmeye ve daha çok toplantı yapılmaya karar verildi
+- Oyunun dizaynı açısından kararlar alındı.
+- Yapılmış özellikler hakkında konuşuldu.
+- Daha sık iletişime geçilmeye ve daha çok toplantı yapılmaya karar verildi.
 - Yapılan hatalar hakkında öneriler verildi.
