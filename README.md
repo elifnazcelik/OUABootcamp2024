@@ -117,7 +117,7 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 ### Sprint Retrospective: 
 - Oyunun dizaynı açısından kararlar alındı.
 - Yapılmış özellikler hakkında konuşuldu.
-- Daha sık iletişime geçilmeye ve daha çok toplantı yapılmaya karar verildi.
+- Daha sık iletişime geçilmesine ve daha çok toplantı yapılmasına karar verildi.
 - Yapılan hatalar hakkında öneriler verildi.
 - Oyunun hızlıca birleştirilebilmesi için mapin oyuna en kısa zamanda eklenmesi gerektiğine karar verildi.
 
