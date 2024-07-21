@@ -60,7 +60,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. jira yapılacak işle
 
 
 
-Oyun Durumu: ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/657ed4ca-695b-4c18-8b08-503b41421c35)
+## **Oyun Durumu**: ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/657ed4ca-695b-4c18-8b08-503b41421c35)
 
 
 
