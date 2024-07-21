@@ -101,7 +101,7 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
 
 
-## **Sprint Review Participants**: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Dogantemur
+**Sprint Review Participants**: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Dogantemur
 
 ## Sprint Retrospective: 
 - Oyunun dizaynı açısından kararlar alındı.
