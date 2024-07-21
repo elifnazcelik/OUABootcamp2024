@@ -74,7 +74,7 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
   Takımımız 5 Temmuzda oluşturulduğundan sadece oyunumuzu şekillendirme ve görev dağılımı yapma fırsatı bulabildik.
   
 <details>
-<summary> ## Sprint 2</summary>
+<summary> **Sprint 2**</summary>
 <p>- **Sprint Notes**
   - Map, karakter, düşman, pazar tezgahı çizimleri yapıldı.
   - Kraktere temel mekanikler, toplama mekaniği, animasyonlar, kamera, ağaç kesme mekaniği eklendi.
