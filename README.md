@@ -60,7 +60,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. jira yapılacak işle
 
 
 
-Oyun Durumu: ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/657ed4ca-695b-4c18-8b08-503b41421c35)
+Oyun Durumu: ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/657ed4ca-695b-4c18-8b08-503b41421c35)![Sprite-0001-Sheet](https://github.com/user-attachments/assets/bf543f86-879d-416e-98f6-e82a6122e2b0)
+
 
 
 ### Sprint Review: Alınan kararlar: 
@@ -83,11 +84,21 @@ Takım içindeki görev dağılımı yapılmıştır
 
 ## Sprintte Tamamlanması Beklenen Puan: 200 puan
 
-## Sprintte Tamamlanan Puan: (... puan) Takımımız geç oluşturulduğu için bu sprinte düşen görev miktarı fazlaydı. Ekip arkadaşlarımın yoğunlukları sebebiyle bazı görevler tamamlanamadı.
+## Sprintte Tamamlanan Puan: (160 puan) Takımımız geç oluşturulduğu için bu sprinte düşen görev miktarı fazlaydı. Ekip arkadaşlarımın yoğunlukları sebebiyle bazı görevler tamamlanamadı.
 
 ## Daily Scrum: [Sprint2DailyScrum.docx](https://github.com/user-attachments/files/16324994/Sprint2DailyScrum.docx)
 
+## Ürün Durumu
+![WhatsApp Image 2024-07-12 at 21 29 26_bd70719d](https://github.com/user-attachments/assets/909fd2ed-3fed-4726-9a34-50614e32289a)
+![WhatsApp Image 2024-07-13 at 02 56 28_16b4b35c](https://github.com/user-attachments/assets/a55e4753-efa7-48f1-b85d-4a8a22827bc6)
+https://github.com/user-attachments/assets/1ceec7c2-597c-43d2-bdd7-9b489cb4e379
 
-## Sprint Review Participants: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik
+
+
+## Sprint Review Participants: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Dogantemur
 
 ## Sprint Retrospective: 
+- Oyunun dizaynı açısından kararlar alındı
+- Yapılmış özellikler hakkında konuşuldu
+- Daha sık iletişime geçilmeye ve daha çok toplantı yapılmaya karar verildi
+- Yapılan hatalar hakkında öneriler verildi.
