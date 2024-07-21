@@ -55,7 +55,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. jira yapılacak işle
 
 
 
-## **Oyun Durumu**: ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/657ed4ca-695b-4c18-8b08-503b41421c35)
+## **Oyun Durumu**: 
+![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/657ed4ca-695b-4c18-8b08-503b41421c35)
 
 
 
@@ -64,7 +65,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. jira yapılacak işle
 ## Sprint Retrospective:
 Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
-### -Diğer Notlar:
+### - Diğer Notlar:
 
   Takımımız 5 Temmuzda oluşturulduğundan sadece oyunumuzu şekillendirme ve görev dağılımı yapma fırsatı bulabildik.
 
