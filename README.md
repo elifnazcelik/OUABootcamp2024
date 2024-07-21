@@ -90,6 +90,7 @@ Takım içindeki görev dağılımı yapılmıştır
 
 ## Ürün Durumu
 - ![WhatsApp Image 2024-07-12 at 21 29 26_bd70719d](https://github.com/user-attachments/assets/909fd2ed-3fed-4726-9a34-50614e32289a)
+- ![image](https://github.com/elifnazcelik/OUABootcamp2024/assets/117751053/657ed4ca-695b-4c18-8b08-503b41421c35)![Sprite-0001-Sheet](https://github.com/user-attachments/assets/bf543f86-879d-416e-98f6-e82a6122e2b0)
 - ![WhatsApp Image 2024-07-13 at 02 56 28_16b4b35c](https://github.com/user-attachments/assets/a55e4753-efa7-48f1-b85d-4a8a22827bc6)
 - https://github.com/user-attachments/assets/1ceec7c2-597c-43d2-bdd7-9b489cb4e379
 
