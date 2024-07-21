@@ -38,7 +38,7 @@ Oyunumuz, kullanıcılarımıza çevre temizliği ve toplumsal yaşam konusunda 
 
 # Sprint 1
 
-- Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
@@ -83,7 +83,7 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
 - **Sprintte Tamamlanması Beklenen Puan**: 200 puan
 
-- **Sprintte Tamamlanan Puan**: (160 puan) Takımımız geç oluşturulduğu için bu sprinte düşen görev miktarı fazlaydı. Yoğunluklar sebebiyle bazı görevler tamamlanamadı.
+- **Sprintte Tamamlanan Puan**: (160 puan) Takımımız geç oluşturulduğu için bu sprinte düşen görev miktarı fazlaydı. Yoğunluklar sebebiyle bazı görevler tamamlanamadı. Tamamlanamayan görevlerin 3. Sprinte aktarılmasına karar verildi.
 
 - **Daily Scrum**: [Sprint2DailyScrum.docx](https://github.com/user-attachments/files/16324994/Sprint2DailyScrum.docx)
 
