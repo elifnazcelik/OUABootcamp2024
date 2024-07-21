@@ -89,9 +89,12 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
 ## Oyun Durumu
 ![Görsel 1](https://github.com/user-attachments/assets/909fd2ed-3fed-4726-9a34-50614e32289a)
-![Sprite-0001-Sheet](https://github.com/user-attachments/assets/bf543f86-879d-416e-98f6-e82a6122e2b0)
-![WhatsApp Image 2024-07-13 at 02 56 28_16b4b35c](https://github.com/user-attachments/assets/a55e4753-efa7-48f1-b85d-4a8a22827bc6)
-https://github.com/user-attachments/assets/1ceec7c2-597c-43d2-bdd7-9b489cb4e379
+![Görsel 2](https://github.com/user-attachments/assets/bf543f86-879d-416e-98f6-e82a6122e2b0)
+![Görsel 3](https://github.com/user-attachments/assets/a55e4753-efa7-48f1-b85d-4a8a22827bc6)
+![Görsel 3](https://github.com/user-attachments/assets/1ceec7c2-597c-43d2-bdd7-9b489cb4e379)
+![Görsel 4](https://github.com/user-attachments/assets/bad69f49-8aac-4513-81c7-76989a505632)
+
+
 
 
 
@@ -102,3 +105,4 @@ https://github.com/user-attachments/assets/1ceec7c2-597c-43d2-bdd7-9b489cb4e379
 - Yapılmış özellikler hakkında konuşuldu.
 - Daha sık iletişime geçilmeye ve daha çok toplantı yapılmaya karar verildi.
 - Yapılan hatalar hakkında öneriler verildi.
+- Oyunun hızlıca birleştirilebilmesi için mapin oyuna en kısa zamanda eklenmesi gerektiğine karar verildi.
