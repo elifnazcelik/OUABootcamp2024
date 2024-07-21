@@ -67,8 +67,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. jira yapılacak işle
 ### Sprint Review: Alınan kararlar: 
 - Oyunun teması ve hikayesini belirlendi.
 ## Sprint Retrospective:
-
-Takım içindeki görev dağılımı yapılmıştır
+Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
 ## -Diğer Notlar:
 
@@ -88,11 +87,11 @@ Takım içindeki görev dağılımı yapılmıştır
 
 ## **Daily Scrum**: [Sprint2DailyScrum.docx](https://github.com/user-attachments/files/16324994/Sprint2DailyScrum.docx)
 
-## Ürün Durumu
-- ![WhatsApp Image 2024-07-12 at 21 29 26_bd70719d](https://github.com/user-attachments/assets/909fd2ed-3fed-4726-9a34-50614e32289a)
-- ![Sprite-0001-Sheet](https://github.com/user-attachments/assets/bf543f86-879d-416e-98f6-e82a6122e2b0)
-- ![WhatsApp Image 2024-07-13 at 02 56 28_16b4b35c](https://github.com/user-attachments/assets/a55e4753-efa7-48f1-b85d-4a8a22827bc6)
-- https://github.com/user-attachments/assets/1ceec7c2-597c-43d2-bdd7-9b489cb4e379
+## Oyun Durumu
+![WhatsApp Image 2024-07-12 at 21 29 26_bd70719d](https://github.com/user-attachments/assets/909fd2ed-3fed-4726-9a34-50614e32289a)
+![Sprite-0001-Sheet](https://github.com/user-attachments/assets/bf543f86-879d-416e-98f6-e82a6122e2b0)
+![WhatsApp Image 2024-07-13 at 02 56 28_16b4b35c](https://github.com/user-attachments/assets/a55e4753-efa7-48f1-b85d-4a8a22827bc6)
+https://github.com/user-attachments/assets/1ceec7c2-597c-43d2-bdd7-9b489cb4e379
 
 
 
