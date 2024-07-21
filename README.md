@@ -1,10 +1,5 @@
 ![asdgfhdfgah](https://github.com/elifnazcelik/OUABootcamp2024/assets/120333911/15175df1-39e2-45dd-8a86-b870c11ee215) ![gdsfgsdfg](https://github.com/elifnazcelik/OUABootcamp2024/assets/120333911/f603f29e-9574-4dd6-a4a0-dac5e858a1b8) ![Sprite-000asdas3](https://github.com/elifnazcelik/OUABootcamp2024/assets/120333911/87084788-3b66-43e9-a7f8-53ecb70fd1ed)
-# Takım İsmi
-
-
-
-
-
+## Takım İsmi
 Unity Takım 6
 
 
@@ -15,25 +10,25 @@ Unity Takım 6
 - Ege Dogantemur: Team Member/Developer
 - Yusuf Erkan: Team Member/Developer
 
-# Oyun İsmi
-Rubbish
+## Oyun İsmi
+**Rubbish**
 
-## Oyun Açıklaması
+### Oyun Açıklaması
 Oyunumuz, kullanıcılarımıza çevre temizliği ve toplumsal yaşam konusunda bilinç kazanmayı amaçlamaktadır aynı zamanda çevre kirliliğine dikkat çekmerek bunların çözümlerine örnekler sunmayı ve kullanıcılarımıza bilinç kazandırmayı hedefler. Oyunumuz ağaç dikerek oksijen seviyesini dengede tutmaya çalıştığımız, gerektiğinde çöp adamlarla savaştığımız, çeşitli bulmacalar çözdüğümüz, çeşitli bitkiler yetiştirerek hayatta kaldığımız 2D pixel art hayatta kalma oyunudur.
-## Oyun Özellikleri
+### Oyun Özellikleri
 - 2D
 - Pixel Art
 - Çevresel kirliliği ayrıştırma 
 - Çevresel faktörleri temizleyerek hayatta kalma
 - Atıkları ayrıştırarak puan kazanma
 - Geri dönüştürülebilecek olan ürünleri geri dönüştürüp kullanılabilecek ürünlere çevirip hayatta kalmak için kullanma 
-## Hedef Kitle
+### Hedef Kitle
 - Puzzle sevenler
 - Kaynak yönetimini sevenler
 - 7 yaş üstü kullanıcılar
 - Doğa ve hayvan severler
 - Eğlenceli ve öğretici oyun arayan aileler
-# Product Backlog URL
+## Product Backlog URL
 [[jira Backlog Board](https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)](https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list)
 
 # Sprint 1
@@ -73,7 +68,7 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
   Takımımız 5 Temmuzda oluşturulduğundan sadece oyunumuzu şekillendirme ve görev dağılımı yapma fırsatı bulabildik.
 
-## Sprint 2
+# Sprint 2
 
 - **Sprint Notes**
   - Map, karakter, düşman, pazar tezgahı çizimleri yapıldı.
