@@ -83,6 +83,7 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 - **Sprintte Tamamlanan Puan**: (160 puan) Takımımız geç oluşturulduğu için bu sprinte düşen görev miktarı fazlaydı. Yoğunluklar sebebiyle bazı görevler tamamlanamadı. Tamamlanamayan görevlerin 3. Sprinte aktarılmasına karar verildi.
 
 - **Daily Scrum**: [Sprint2DailyScrum.docx](https://github.com/user-attachments/files/16324994/Sprint2DailyScrum.docx)
+- **Product Backlog URL**: https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list
 
 - **Sprint Board Update**
 ![image](https://github.com/user-attachments/assets/1b430d2b-09bd-4abc-9a92-051ced34abe1)
