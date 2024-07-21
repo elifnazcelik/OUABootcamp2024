@@ -64,7 +64,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. jira yapılacak işle
 ## Sprint Retrospective:
 Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
-## -Diğer Notlar:
+### -Diğer Notlar:
 
   Takımımız 5 Temmuzda oluşturulduğundan sadece oyunumuzu şekillendirme ve görev dağılımı yapma fırsatı bulabildik.
 
@@ -108,7 +108,7 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
 - **Sprint Review Participants**: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Dogantemur
 
-## Sprint Retrospective: 
+### Sprint Retrospective: 
 - Oyunun dizaynı açısından kararlar alındı.
 - Yapılmış özellikler hakkında konuşuldu.
 - Daha sık iletişime geçilmeye ve daha çok toplantı yapılmaya karar verildi.
