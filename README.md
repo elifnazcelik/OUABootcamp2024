@@ -112,7 +112,8 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
 
 
-
+### Sprint Review
+- Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. 3 görev dışında istenilen amaçlara ulaşılmıştır. Oyunun dizeynı açısından kararlar verilmiş ve oyuna entegre edilmiştir.
 - **Sprint Review Participants**: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Dogantemur
 
 ### Sprint Retrospective: 
