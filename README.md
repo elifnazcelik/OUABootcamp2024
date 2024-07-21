@@ -80,7 +80,7 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
 - **Sprintte Tamamlanması Beklenen Puan**: 200 puan
 
-- **Sprintte Tamamlanan Puan**: (160 puan) Takımımız geç oluşturulduğu için bu sprinte düşen görev miktarı fazlaydı. Yoğunluklar sebebiyle bazı görevler tamamlanamadı. Tamamlanamayan görevlerin 3. Sprinte aktarılmasına karar verildi.
+- **Sprintte Tamamlanan Puan**: (175 puan) Takımımız geç oluşturulduğu için bu sprinte düşen görev miktarı fazlaydı. Yoğunluklar sebebiyle bazı görevler tamamlanamadı. Tamamlanamayan görevlerin 3. Sprinte aktarılmasına karar verildi.
 
 - **Daily Scrum**: [Sprint2DailyScrum.docx](https://github.com/user-attachments/files/16324994/Sprint2DailyScrum.docx)
 - **Product Backlog URL**: https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list
@@ -113,7 +113,7 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
 
 ### Sprint Review
-- Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. 3 görev dışında istenilen amaçlara ulaşılmıştır. Oyunun dizeynı açısından kararlar verilmiş ve oyuna entegre edilmiştir.
+- Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. 2 görev dışında istenilen amaçlara ulaşılmıştır. Oyunun dizeynı açısından kararlar verilmiş ve oyuna entegre edilmiştir.
 - **Sprint Review Participants**: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Dogantemur
 
 ### Sprint Retrospective: 
