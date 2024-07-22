@@ -46,14 +46,6 @@ public class ToolsCharacterController : MonoBehaviour
         }
     }
 
-    private void OnDrawGizmos()
-    {
-        if (rgbd2d != null)
-        {
-            // Draw a red sphere at the calculated position
-            Gizmos.color = Color.red;
-            Gizmos.DrawSphere(position, 1.2f);
-        }
-    }
+   
 
 }
