@@ -6,14 +6,12 @@ public class GameManager : MonoBehaviour
 {
     private static GameManager _instance;
 
-    // Public property to access the instance
     public static GameManager Instance
     {
         get
         {
             if (_instance == null)
             {
-                // Find existing instance or create a new one
                 _instance = FindObjectOfType<GameManager>();
                 if (_instance == null)
                 {
@@ -39,4 +37,5 @@ public class GameManager : MonoBehaviour
     }
 
     public GameObject player;
+    public ItemContainer inventoryContainer;
 }
