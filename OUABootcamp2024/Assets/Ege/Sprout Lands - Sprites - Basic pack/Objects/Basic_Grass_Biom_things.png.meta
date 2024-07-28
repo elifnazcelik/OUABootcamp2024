@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 1988a97788a62974da38966912f573d3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1453596e8aa860c4d87a8d3b6a493ba3
+      internalID: 1118976154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 48
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d657bab3a380fe847963e26f8bd38299
+      internalID: -283102152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 48
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d35d413fe320154f9afa94c16be736d
+      internalID: 635744462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5c8b4ee7b71a845adf75c0c85621c5
+      internalID: 247375128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 65
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77972634eea450409c341c4dd2dc686
+      internalID: -122711457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 69
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92893cbb83ea267438528380b53fc604
+      internalID: -1714147815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74d5149493094646a1acc73364829ab
+      internalID: -2065477280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 69
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46adf34afd2b5294d9c981a4b75cd512
+      internalID: 1352948049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 57
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c051bc26348ae4dbc3796a66d6c1a5
+      internalID: -205647460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 54
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52434cb6bae77d54fb66e0ef769b7c79
+      internalID: -99020994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 50
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5248936a1e787d4e9078844cd038c00
+      internalID: -28204455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 52
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6010a4864c3baa240899116aa773c47d
+      internalID: 2144905440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 50
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b129bb68e5d0724e922c47b45630065
+      internalID: -1373256289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd5565ad60b7834cbf97b4fe9618a48
+      internalID: -1706848580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df6f79c3d2943e488fb18a11f6adbc5
+      internalID: -375461284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c219c96a41e0c247a270807b7be0333
+      internalID: 1566197439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 34
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb13698b8d3b02749ab9643c8f3aaa7e
+      internalID: 1552124667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 34
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ab50f6bb7388044a3ebb4296a5432f
+      internalID: 49503409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 35
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbe46f671405f44e9fd64ea3518b863
+      internalID: -2002303776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 35
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874314ef5fe737a45bd327faea139481
+      internalID: -1509239134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 34
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408a685aad37bda419b14c12fe991a51
+      internalID: 1360492468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 17
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2ae0afb99ef06449182fadaeb66731
+      internalID: 988107894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1a850398fb2914dbfa606866c39cae
+      internalID: 1706384827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 20
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f0d7b73fcbb3648af7c50f528d7224
+      internalID: 1706412047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78456d6766c539545ae83448b9c58df2
+      internalID: -1994585449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71263f67030562a41917c63f080ecb67
+      internalID: 640722934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 18
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae0a35c45ce8714d9f1fa6c81d87845
+      internalID: -59664832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 20
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aa9078bcf86c948bf57793ff25407b
+      internalID: -688576896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 19
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf986f3aab6cf0947b1a78642472b000
+      internalID: -477716361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f9694a4abfd7043a6f11f9a9f17de3
+      internalID: -1224428124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed2af1f40d289c4fb5d1131fb629731
+      internalID: -970619334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521147998728f27419cf843f22001528
+      internalID: -345939866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8311d923dea423546b13db720e92ebaf
+      internalID: -1133939013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c1168b96abdc04ba326efc5d47809b
+      internalID: 1938102073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic_Grass_Biom_things_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b038cebdd9fb70b41acd436a163a45b1
+      internalID: -1818721106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f38f0cf2c8e164440887ba34bd805f21
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Basic_Grass_Biom_things_0: 1118976154
+      Basic_Grass_Biom_things_1: -283102152
+      Basic_Grass_Biom_things_10: -28204455
+      Basic_Grass_Biom_things_11: 2144905440
+      Basic_Grass_Biom_things_12: -1373256289
+      Basic_Grass_Biom_things_13: -1706848580
+      Basic_Grass_Biom_things_14: -375461284
+      Basic_Grass_Biom_things_15: 1566197439
+      Basic_Grass_Biom_things_16: 1552124667
+      Basic_Grass_Biom_things_17: 49503409
+      Basic_Grass_Biom_things_18: -2002303776
+      Basic_Grass_Biom_things_19: -1509239134
+      Basic_Grass_Biom_things_2: 635744462
+      Basic_Grass_Biom_things_20: 1360492468
+      Basic_Grass_Biom_things_21: 988107894
+      Basic_Grass_Biom_things_22: 1706384827
+      Basic_Grass_Biom_things_23: 1706412047
+      Basic_Grass_Biom_things_24: -1994585449
+      Basic_Grass_Biom_things_25: 640722934
+      Basic_Grass_Biom_things_26: -59664832
+      Basic_Grass_Biom_things_27: -688576896
+      Basic_Grass_Biom_things_28: -477716361
+      Basic_Grass_Biom_things_29: -1224428124
+      Basic_Grass_Biom_things_3: 247375128
+      Basic_Grass_Biom_things_30: -970619334
+      Basic_Grass_Biom_things_31: -345939866
+      Basic_Grass_Biom_things_32: -1133939013
+      Basic_Grass_Biom_things_33: 1938102073
+      Basic_Grass_Biom_things_34: -1818721106
+      Basic_Grass_Biom_things_4: -122711457
+      Basic_Grass_Biom_things_5: -1714147815
+      Basic_Grass_Biom_things_6: -2065477280
+      Basic_Grass_Biom_things_7: 1352948049
+      Basic_Grass_Biom_things_8: -205647460
+      Basic_Grass_Biom_things_9: -99020994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
