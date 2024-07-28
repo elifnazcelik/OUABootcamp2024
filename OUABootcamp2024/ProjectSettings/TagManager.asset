@@ -11,10 +11,17 @@ TagManager:
   - 
   - Water
   - UI
+<<<<<<< HEAD
   - 
   - 
   - 
   - Enemy
+=======
+  - Background
+  - Midground
+  - Foreground
+  - Interactable
+>>>>>>> Zeynep
   - 
   - 
   - 
