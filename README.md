@@ -131,7 +131,10 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 - **Sprintte Tamamlanan Puan**: (25 puan) Yoğunluklar sebebiyle bazı görevler tamamlanamadı. Oyunun sadeleştirilmesine ve daha rahat bir takvimle oluşturulmaya devam edilmesine karar verildi.
 
 - **Daily Scrum**: 
-- **Product Backlog URL**:
+- **Product Backlog URL**: https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list
 - **Sprint Board Update**
 
 ## **Oyun Durumu**
+![Screenshot 2024-08-02 194920](https://github.com/user-attachments/assets/35069dbf-ec92-4dff-989e-6cd832200668)
+![Screenshot 2024-08-02 194758](https://github.com/user-attachments/assets/44314e6f-d62e-4f38-8c76-a3d9f7d6b295)
+![Screenshot 2024-08-02 194721](https://github.com/user-attachments/assets/e44b50ce-29cb-48a4-a82b-1596a656bdfd)
