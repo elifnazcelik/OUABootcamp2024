@@ -113,13 +113,25 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
 
 ### Sprint Review
-- Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. 2 görev dışında istenilen amaçlara ulaşılmıştır. Oyunun dizeynı açısından kararlar verilmiş ve oyuna entegre edilmiştir.
+- Sprint 3'ün sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. Görevlerde yoğunluk sebebiyle istenilen amaçlara ulaşılamamıştır. Oyun tek bir branchte birleştirilmiştir.
 - **Sprint Review Participants**: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Dogantemur
 
 ### Sprint Retrospective: 
-- Oyunun dizaynı açısından kararlar alındı.
-- Yapılmış özellikler hakkında konuşuldu.
-- Daha sık iletişime geçilmesine ve daha çok toplantı yapılmasına karar verildi.
-- Yapılan hatalar hakkında öneriler verildi.
-- Oyunun hızlıca birleştirilebilmesi için mapin oyuna en kısa zamanda eklenmesi gerektiğine karar verildi.
+- Hedefler konusunda gerçekçi olunulmadığında uzlaşıldı.
+- Takımın korunmasına ve projeye devam etmesine karar verildi.
 
+# Sprint 3
+
+- **Sprint Notes**
+  - Map, envanter düzenlendi, başlangıç ekranı eklendi.
+  - Oyun tek bir branche çekilip birleştirildi.
+
+- **Sprintte Tamamlanması Beklenen Puan**: 125 puan
+
+- **Sprintte Tamamlanan Puan**: (25 puan) Yoğunluklar sebebiyle bazı görevler tamamlanamadı. Oyunun sadeleştirilmesine ve daha rahat bir takvimle oluşturulmaya devam edilmesine karar verildi.
+
+- **Daily Scrum**: 
+- **Product Backlog URL**:
+- **Sprint Board Update**
+
+## **Oyun Durumu**
