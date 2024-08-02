@@ -7,7 +7,7 @@ Unity Takım 6
 - Elif Şahin: Product Owner
 - Zeynep Kaplan: Scrum Master
 - Elifnaz Çelik: Team Member/Developer
-- Ege Dogantemur: Team Member/Developer
+- Ege Doğantemur: Team Member/Developer
 - Yusuf Erkan: Team Member/Developer
 
 ### Oyun İsmi
@@ -113,12 +113,13 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
 
 ### Sprint Review
-- Sprint 3'ün sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. Görevlerde yoğunluk sebebiyle istenilen amaçlara ulaşılamamıştır. Oyun tek bir branchte birleştirilmiştir.
-- **Sprint Review Participants**: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Dogantemur
+- Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. Görevlerde yoğunluk sebebiyle tamamlanamayan görevler sonraki sprinte aktarılmıştır. Daha fazla iletişimde olunması gerektiği vurgulanmıştır.
+- **Sprint Review Participants**: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Doğantemur
 
 ### Sprint Retrospective: 
-- Hedefler konusunda gerçekçi olunulmadığında uzlaşıldı.
-- Takımın korunmasına ve projeye devam etmesine karar verildi.
+- Map, karakter sprintleri, ui, pazar tezgahı tasarlandı.
+- Ağaç kesme, envanter, düşman spawnlanması düşmanın ve tavşanın karakteri takibi eklenildi.
+- Oyuna eklenmesi gereken şeylerde sadeleşmeye gidilmeye karar verildi.
 
 # Sprint 3
 
@@ -134,9 +135,16 @@ Az zamanımız olduğundan hızlı hareket edilmesine karar verildi.
 
 
 - **Product Backlog URL**: https://zeynepkaplan.atlassian.net/jira/core/projects/B2T6/list
-- **Sprint Board Update**
 
 ## **Oyun Durumu**
 ![Screenshot 2024-08-02 194920](https://github.com/user-attachments/assets/35069dbf-ec92-4dff-989e-6cd832200668)
 ![Screenshot 2024-08-02 194758](https://github.com/user-attachments/assets/44314e6f-d62e-4f38-8c76-a3d9f7d6b295)
 ![Screenshot 2024-08-02 194721](https://github.com/user-attachments/assets/e44b50ce-29cb-48a4-a82b-1596a656bdfd)
+
+### Sprint Review
+- Sprint 3'ün sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. Görevlerde yoğunluk sebebiyle istenilen amaçlara ulaşılamamıştır. Oyun tek bir branchte birleştirilmiştir.
+- **Sprint Review Participants**: Zeynep Kaplan, Elif Şahin, Elifnaz Çelik, Ege Doğantemur
+
+### Sprint Retrospective: 
+- Hedefler konusunda gerçekçi olunulmadığında uzlaşıldı.
+- Takımın korunmasına ve projeye devam edilmesine karar verildi.
