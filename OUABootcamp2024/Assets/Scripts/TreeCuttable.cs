@@ -8,11 +8,16 @@ public class TreeCuttable : ToolHit
     [SerializeField] int dropCount = 5;
     [SerializeField] float spread = 0.7f;
     int count;
+    public float cut;
+    private Animator animator;
 
     private void Awake()
     {
         count = dropCount;
+        cut = 0f;
+        animator = GetComponent<Animator>();
     }
+
     public override void Hit()
     {
         while (dropCount > 0)
@@ -26,6 +31,9 @@ public class TreeCuttable : ToolHit
             go.transform.position = position;
         }
         dropCount = count;
+        cut = 1f; 
+        animator.SetFloat("cut", cut);
         Destroy(transform.gameObject);
     }
 }
+

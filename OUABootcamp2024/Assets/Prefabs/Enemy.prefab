@@ -74,13 +74,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 1181418649, guid: 854492004ee6c4346b352b768bd2c141, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_SortingOrder: 7
+  m_Sprite: {fileID: 21300000, guid: 5a61a354139b0f244b7ddd6a3582a72b, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.68235296}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.16, y: 0.28}
+  m_Size: {x: 2.56, y: 2.56}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -118,6 +118,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15e7086c7a77022488641fd1a7cebcfb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 699692696169090076}
+  player: {fileID: 8527357429885687552, guid: 781a0dd79af2b5d449a47e84fa6f16e0, type: 3}
   speed: 1
   detectionRange: 10
